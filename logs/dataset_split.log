@@ -1,0 +1,1722 @@
+2026-02-08 00:32:10,911 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 00:32:10,912 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 00:32:10,913 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 00:32:10,914 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 00:32:11,277 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 00:32:11,633 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 00:32:12,242 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 00:32:12,678 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 00:32:13,228 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 00:32:13,786 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 00:32:14,168 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 00:32:14,530 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 00:32:15,114 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 00:32:15,479 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 00:32:15,962 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 00:32:16,467 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 00:32:16,877 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 00:32:17,653 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 00:32:18,013 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 00:32:18,469 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 00:32:18,814 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 00:32:19,255 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 00:32:19,674 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 00:32:20,137 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 00:32:20,629 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 00:32:21,344 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 00:32:21,942 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 00:32:22,470 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 00:32:22,818 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 00:32:23,282 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 00:32:23,770 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 00:32:24,282 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 00:32:25,119 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 00:32:25,696 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 00:32:26,062 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 00:32:26,413 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 00:32:26,763 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 00:32:27,125 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 00:32:27,125 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 00:32:27,126 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 00:32:27,126 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 00:32:27,126 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 00:43:15,650 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 00:43:15,651 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 00:43:15,652 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 00:43:15,652 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 00:43:16,007 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 00:43:16,414 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 00:43:17,041 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 00:43:17,466 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 00:43:18,041 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 00:43:18,783 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 00:43:19,130 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 00:43:19,502 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 00:43:20,102 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 00:43:20,457 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 00:43:20,930 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 00:43:21,445 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 00:43:21,808 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 00:43:22,724 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 00:43:23,072 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 00:43:23,483 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 00:43:23,853 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 00:43:24,302 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 00:43:24,708 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 00:43:25,265 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 00:43:25,749 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 00:43:26,341 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 00:43:27,072 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 00:43:27,541 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 00:43:27,916 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 00:43:28,394 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 00:43:28,769 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 00:43:29,445 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 00:43:30,165 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 00:43:30,793 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 00:43:31,159 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 00:43:31,511 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 00:43:31,870 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 00:43:32,220 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 00:43:32,221 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 00:43:32,221 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 00:43:32,221 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 00:43:32,222 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 00:44:19,427 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 00:44:19,428 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 00:44:19,429 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 00:44:19,430 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 00:44:19,780 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 00:44:20,148 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 00:44:20,769 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 00:44:21,199 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 00:44:21,736 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 00:44:22,405 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 00:44:22,764 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 00:44:23,120 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 00:44:23,768 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 00:44:24,134 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 00:44:24,567 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 00:44:25,137 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 00:44:25,486 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 00:44:26,245 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 00:44:26,650 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 00:44:27,079 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 00:44:27,473 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 00:44:28,250 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 00:44:28,786 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 00:44:29,334 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 00:44:29,905 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 00:44:30,526 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 00:44:31,276 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 00:44:31,798 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 00:44:32,151 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 00:44:32,633 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 00:44:33,046 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 00:44:33,665 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 00:44:34,436 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 00:44:35,054 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 00:44:35,413 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 00:44:35,760 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 00:44:36,110 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 00:44:36,481 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 00:44:36,482 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 00:44:36,482 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 00:44:36,482 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 00:44:36,482 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 00:50:10,271 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 00:50:10,272 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 00:50:10,273 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 00:50:10,274 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 00:50:10,636 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 00:50:11,007 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 00:50:11,623 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 00:50:12,051 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 00:50:12,696 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 00:50:13,274 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 00:50:13,622 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 00:50:14,017 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 00:50:14,620 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 00:50:14,977 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 00:50:15,490 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 00:50:16,024 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 00:50:16,390 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 00:50:17,264 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 00:50:17,634 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 00:50:18,048 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 00:50:18,421 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 00:50:18,868 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 00:50:19,283 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 00:50:19,775 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 00:50:20,267 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 00:50:20,895 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 00:50:21,606 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 00:50:22,081 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 00:50:22,446 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 00:50:22,939 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 00:50:23,331 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 00:50:23,996 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 00:50:24,722 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 00:50:25,358 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 00:50:25,707 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 00:50:26,066 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 00:50:26,423 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 00:50:26,792 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 00:50:26,793 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 00:50:26,793 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 00:50:26,793 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 00:50:26,793 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 00:50:26,844 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 00:50:26,846 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 00:50:26,847 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 00:50:26,849 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 00:50:27,205 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 00:50:27,628 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 00:50:28,341 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 00:50:28,770 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 00:50:29,480 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 00:50:30,028 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 00:50:30,399 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 00:50:30,776 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 00:50:31,352 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 00:50:31,725 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 00:50:32,211 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 00:50:32,740 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 00:50:33,144 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 00:50:33,947 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 00:50:34,347 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 00:50:34,818 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 00:50:35,182 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 00:50:35,656 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 00:50:36,066 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 00:50:36,544 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 00:50:37,054 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 00:50:37,687 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 00:50:38,291 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 00:50:38,866 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 00:50:39,229 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 00:50:39,717 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 00:50:40,099 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 00:50:40,607 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 00:50:41,415 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 00:50:42,000 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 00:50:42,351 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 00:50:42,780 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 00:50:43,157 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 00:50:43,526 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 00:50:43,526 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 00:50:43,526 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 00:50:43,527 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 00:50:43,527 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 00:51:27,922 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 00:51:27,923 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 00:51:27,924 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 00:51:27,924 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 00:51:28,277 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 00:51:28,632 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 00:51:29,243 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 00:51:29,673 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 00:51:30,303 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 00:51:31,009 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 00:51:31,359 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 00:51:31,710 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 00:51:32,304 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 00:51:32,666 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 00:51:33,135 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 00:51:33,637 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 00:51:34,000 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 00:51:34,939 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 00:51:35,287 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 00:51:35,701 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 00:51:36,054 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 00:51:36,502 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 00:51:36,893 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 00:51:37,419 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 00:51:37,903 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 00:51:38,541 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 00:51:39,262 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 00:51:39,741 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 00:51:40,099 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 00:51:40,571 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 00:51:40,948 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 00:51:41,579 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 00:51:42,297 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 00:51:42,942 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 00:51:43,310 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 00:51:43,670 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 00:51:44,020 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 00:51:44,399 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 00:51:44,401 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 00:51:44,402 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 00:51:44,402 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 00:51:44,402 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 00:51:44,448 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 00:51:44,449 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 00:51:44,450 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 00:51:44,451 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 00:51:44,846 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 00:51:45,308 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 00:51:46,043 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 00:51:46,496 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 00:51:47,181 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 00:51:47,795 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 00:51:48,293 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 00:51:48,728 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 00:51:49,433 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 00:51:49,800 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 00:51:50,248 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 00:51:50,816 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 00:51:51,179 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 00:51:52,059 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 00:51:52,499 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 00:51:52,949 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 00:51:53,346 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 00:51:53,800 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 00:51:54,220 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 00:51:54,697 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 00:51:55,221 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 00:51:55,785 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 00:51:56,513 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 00:51:57,076 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 00:51:57,450 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 00:51:57,897 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 00:51:58,266 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 00:51:58,788 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 00:51:59,773 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 00:52:00,336 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 00:52:00,728 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 00:52:01,085 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 00:52:01,441 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 00:52:01,801 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 00:52:01,801 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 00:52:01,802 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 00:52:01,802 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 00:52:01,802 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 00:54:30,426 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 00:54:30,427 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 00:54:30,428 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 00:54:30,429 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 00:54:30,784 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 00:54:31,160 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 00:54:31,784 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 00:54:32,224 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 00:54:32,775 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 00:54:33,530 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 00:54:33,884 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 00:54:34,241 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 00:54:34,840 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 00:54:35,196 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 00:54:35,677 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 00:54:36,194 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 00:54:36,557 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 00:54:37,491 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 00:54:37,963 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 00:54:38,383 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 00:54:38,738 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 00:54:39,176 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 00:54:39,584 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 00:54:40,137 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 00:54:40,633 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 00:54:41,255 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 00:54:41,964 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 00:54:42,459 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 00:54:42,828 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 00:54:43,307 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 00:54:43,690 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 00:54:44,314 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 00:54:45,031 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 00:54:45,722 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 00:54:46,103 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 00:54:46,461 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 00:54:46,805 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 00:54:47,161 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 00:54:47,161 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 00:54:47,162 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 00:54:47,162 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 00:54:47,162 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 00:59:11,840 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 00:59:11,841 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 00:59:11,842 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 00:59:11,843 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 00:59:12,199 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 00:59:12,569 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 00:59:13,170 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 00:59:13,606 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 00:59:14,178 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 00:59:14,732 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 00:59:15,159 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 00:59:15,523 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 00:59:16,113 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 00:59:16,491 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 00:59:16,930 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 00:59:17,436 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 00:59:17,837 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 00:59:18,689 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 00:59:19,042 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 00:59:19,510 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 00:59:19,848 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 00:59:20,288 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 00:59:20,720 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 00:59:21,172 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 00:59:21,644 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 00:59:22,327 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 00:59:22,999 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 00:59:23,545 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 00:59:23,914 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 00:59:24,529 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 00:59:24,981 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 00:59:25,646 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 00:59:26,601 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 00:59:27,104 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 00:59:27,518 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 00:59:27,868 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 00:59:28,220 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 00:59:28,589 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 00:59:28,589 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 00:59:28,590 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 00:59:28,590 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 00:59:28,590 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 01:02:10,223 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 01:02:10,224 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 01:02:10,225 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 01:02:10,226 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 01:02:10,556 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 01:02:10,916 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 01:02:11,573 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 01:02:11,998 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 01:02:12,558 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 01:02:13,230 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 01:02:13,570 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 01:02:13,930 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 01:02:14,575 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 01:02:14,944 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 01:02:15,392 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 01:02:16,002 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 01:02:16,357 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 01:02:17,266 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 01:02:17,617 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 01:02:18,022 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 01:02:18,414 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 01:02:19,013 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 01:02:19,635 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 01:02:20,196 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 01:02:20,751 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 01:02:21,523 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 01:02:22,148 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 01:02:22,662 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 01:02:23,036 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 01:02:23,511 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 01:02:23,959 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 01:02:24,578 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 01:02:25,498 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 01:02:26,818 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 01:02:27,151 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 01:02:27,493 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 01:02:28,106 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 01:02:28,453 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 01:02:28,453 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 01:02:28,454 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 01:02:28,454 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 01:02:28,454 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 01:06:47,513 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 01:06:47,514 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 01:06:47,516 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 01:06:47,517 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 01:06:47,877 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 01:06:48,241 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 01:06:48,836 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 01:06:49,257 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 01:06:49,909 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 01:06:50,536 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 01:06:50,886 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 01:06:51,243 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 01:06:51,841 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 01:06:52,190 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 01:06:52,662 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 01:06:53,172 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 01:06:53,541 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 01:06:54,488 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 01:06:54,835 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 01:06:55,275 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 01:06:55,637 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 01:06:56,086 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 01:06:56,546 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 01:06:57,006 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 01:06:57,493 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 01:06:58,252 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 01:06:58,906 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 01:06:59,425 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 01:06:59,772 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 01:07:00,247 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 01:07:00,679 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 01:07:01,255 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 01:07:02,045 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 01:07:02,662 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 01:07:03,056 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 01:07:03,429 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 01:07:03,822 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 01:07:04,228 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 01:07:04,228 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 01:07:04,229 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 01:07:04,229 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 01:07:04,229 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-08 01:07:04,272 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-08 01:07:04,273 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-08 01:07:04,274 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-08 01:07:04,276 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-08 01:07:04,650 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-08 01:07:05,033 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-08 01:07:05,650 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-08 01:07:06,116 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-08 01:07:06,863 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-08 01:07:07,492 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-08 01:07:07,842 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-08 01:07:08,188 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-08 01:07:08,804 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-08 01:07:09,167 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-08 01:07:09,607 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-08 01:07:10,149 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-08 01:07:10,521 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-08 01:07:11,314 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-08 01:07:11,697 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-08 01:07:12,109 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-08 01:07:12,448 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-08 01:07:12,905 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-08 01:07:13,312 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-08 01:07:13,847 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-08 01:07:14,432 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-08 01:07:15,135 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-08 01:07:15,839 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-08 01:07:16,401 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-08 01:07:16,754 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-08 01:07:17,277 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-08 01:07:17,731 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-08 01:07:18,245 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-08 01:07:19,137 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-08 01:07:19,690 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-08 01:07:20,089 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-08 01:07:20,434 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-08 01:07:20,780 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-08 01:07:21,141 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-08 01:07:21,142 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-08 01:07:21,142 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-08 01:07:21,142 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-08 01:07:21,142 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-09 22:05:06,284 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-09 22:05:06,285 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-09 22:05:06,286 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-09 22:05:06,288 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-09 22:05:06,950 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-09 22:05:07,503 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-09 22:05:08,590 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-09 22:05:09,438 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-09 22:05:10,435 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-09 22:05:11,561 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-09 22:05:12,183 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-09 22:05:12,887 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-09 22:05:14,026 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-09 22:05:14,561 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-09 22:05:15,526 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-09 22:05:16,472 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-09 22:05:17,156 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-09 22:05:18,663 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-09 22:05:19,230 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-09 22:05:19,983 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-09 22:05:20,730 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-09 22:05:21,603 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-09 22:05:22,560 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-09 22:05:23,488 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-09 22:05:24,506 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-09 22:05:25,612 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-09 22:05:26,833 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-09 22:05:27,769 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-09 22:05:28,444 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-09 22:05:29,403 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-09 22:05:30,233 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-09 22:05:31,439 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-09 22:05:32,872 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-09 22:05:34,062 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-09 22:05:34,947 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-09 22:05:35,759 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-09 22:05:36,287 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-09 22:05:36,907 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-09 22:05:36,907 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-09 22:05:36,907 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-09 22:05:36,908 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-09 22:05:36,908 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-09 22:05:40,991 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-09 22:05:40,993 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-09 22:05:40,994 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-09 22:05:40,996 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-09 22:05:41,369 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-09 22:05:41,727 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-09 22:05:42,360 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-09 22:05:42,807 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-09 22:05:43,350 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-09 22:05:43,940 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-09 22:05:44,379 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-09 22:05:44,747 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-09 22:05:45,354 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-09 22:05:45,709 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-09 22:05:46,147 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-09 22:05:46,708 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-09 22:05:47,120 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-09 22:05:47,989 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-09 22:05:48,389 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-09 22:05:48,787 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-09 22:05:49,138 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-09 22:05:49,614 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-09 22:05:50,025 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-09 22:05:50,498 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-09 22:05:51,122 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-09 22:05:51,671 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-09 22:05:52,378 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-09 22:05:52,874 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-09 22:05:53,226 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-09 22:05:53,772 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-09 22:05:54,160 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-09 22:05:54,653 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-09 22:05:55,616 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-09 22:05:56,137 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-09 22:05:56,499 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-09 22:05:56,845 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-09 22:05:57,205 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-09 22:05:57,572 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-09 22:05:57,572 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-09 22:05:57,573 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-09 22:05:57,573 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-09 22:05:57,574 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:07:46,517 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:07:46,519 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:07:46,520 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:07:46,522 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:07:47,373 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:07:48,089 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:07:49,622 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:07:50,737 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:07:51,852 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:07:52,947 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:07:53,928 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:07:54,812 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:07:56,024 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:07:56,728 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:07:57,850 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:07:59,110 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:07:59,824 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:08:01,732 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:08:02,392 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:08:03,228 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:08:04,101 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:08:05,088 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:08:06,134 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:08:07,243 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:08:08,586 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:08:09,800 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:08:11,823 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:08:13,066 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:08:14,045 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:08:15,502 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:08:16,578 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:08:17,902 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:08:19,647 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:08:21,041 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:08:21,827 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:08:22,750 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:08:23,530 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:08:24,196 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:08:24,196 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:08:24,197 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:08:24,197 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:08:24,197 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:08:24,302 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:08:24,309 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:08:24,311 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:08:24,313 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:08:24,828 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:08:25,360 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:08:26,258 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:08:26,909 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:08:27,833 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:08:28,643 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:08:29,206 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:08:29,702 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:08:30,492 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:08:31,012 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:08:31,619 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:08:32,300 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:08:32,870 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:08:33,921 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:08:34,465 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:08:34,999 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:08:35,502 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:08:36,101 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:08:36,650 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:08:37,276 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:08:37,897 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:08:38,777 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:08:39,569 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:08:40,174 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:08:40,654 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:08:41,352 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:08:41,892 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:08:42,675 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:08:43,587 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:08:44,365 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:08:44,866 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:08:45,375 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:08:45,888 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:08:46,408 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:08:46,409 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:08:46,409 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:08:46,410 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:08:46,410 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:11:31,777 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:11:31,779 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:11:31,780 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:11:31,781 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:11:32,260 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:11:32,786 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:11:33,631 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:11:34,242 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:11:34,945 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:11:35,722 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:11:36,390 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:11:36,883 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:11:37,640 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:11:38,176 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:11:38,777 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:11:39,450 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:11:40,047 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:11:41,174 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:11:41,775 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:11:42,338 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:11:42,852 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:11:43,444 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:11:44,065 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:11:44,676 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:11:45,454 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:11:46,281 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:11:47,023 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:11:47,616 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:11:48,164 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:11:48,847 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:11:49,381 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:11:50,022 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:11:51,071 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:11:51,805 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:11:52,316 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:11:52,804 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:11:53,312 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:11:53,913 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:11:53,914 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:11:53,914 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:11:53,915 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:11:53,915 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:11:54,084 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:11:54,086 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:11:54,088 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:11:54,091 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:11:54,638 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:11:55,238 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:11:56,284 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:11:56,864 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:11:57,707 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:11:58,527 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:11:59,014 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:11:59,505 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:12:00,280 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:12:00,800 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:12:01,402 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:12:02,096 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:12:02,625 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:12:03,732 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:12:04,330 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:12:04,962 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:12:05,538 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:12:06,514 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:12:07,347 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:12:07,973 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:12:08,764 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:12:09,510 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:12:10,258 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:12:10,880 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:12:11,409 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:12:12,078 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:12:12,653 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:12:13,319 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:12:14,439 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:12:15,232 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:12:15,751 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:12:16,249 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:12:16,774 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:12:17,326 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:12:17,327 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:12:17,327 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:12:17,328 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:12:17,328 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:14:10,175 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:14:10,177 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:14:10,178 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:14:10,179 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:14:10,833 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:14:11,381 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:14:12,267 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:14:12,863 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:14:13,617 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:14:14,365 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:14:14,935 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:14:15,445 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:14:16,235 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:14:16,759 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:14:17,407 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:14:18,075 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:14:18,597 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:14:19,593 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:14:20,132 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:14:20,725 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:14:21,210 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:14:21,835 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:14:22,466 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:14:23,117 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:14:23,760 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:14:24,579 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:14:25,323 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:14:26,011 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:14:26,509 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:14:27,210 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:14:27,737 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:14:28,497 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:14:29,400 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:14:30,285 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:14:30,785 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:14:31,292 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:14:31,801 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:14:32,318 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:14:32,318 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:14:32,319 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:14:32,319 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:14:32,319 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:14:32,415 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:14:32,416 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:14:32,420 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:14:32,422 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:14:32,938 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:14:33,456 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:14:34,360 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:14:35,117 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:14:35,993 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:14:36,697 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:14:37,192 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:14:37,680 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:14:38,491 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:14:39,004 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:14:39,644 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:14:40,326 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:14:40,873 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:14:41,839 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:14:42,386 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:14:42,945 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:14:43,427 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:14:44,020 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:14:44,586 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:14:45,194 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:14:45,879 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:14:46,734 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:14:47,898 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:14:48,505 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:14:48,994 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:14:49,680 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:14:50,548 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:14:51,348 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:14:53,215 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:14:53,938 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:14:54,583 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:14:55,081 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:14:55,604 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:14:57,003 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:14:57,004 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:14:57,004 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:14:57,005 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:14:57,005 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:16:13,891 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:16:13,892 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:16:13,894 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:16:13,895 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:16:14,402 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:16:14,922 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:16:15,762 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:16:16,427 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:16:17,474 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:16:18,237 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:16:18,733 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:16:19,255 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:16:20,187 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:16:21,399 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:16:22,239 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:16:23,233 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:16:23,906 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:16:25,722 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:16:26,236 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:16:26,774 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:16:27,270 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:16:27,847 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:16:28,400 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:16:29,192 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:16:29,875 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:16:30,632 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:16:31,462 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:16:32,107 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:16:32,607 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:16:33,278 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:16:33,804 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:16:34,648 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:16:36,174 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:16:37,017 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:16:37,624 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:16:38,148 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:16:38,648 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:16:39,160 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:16:39,161 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:16:39,161 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:16:39,162 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:16:39,162 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:16:39,242 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:16:39,244 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:16:39,246 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:16:39,248 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:16:39,778 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:16:40,452 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:16:41,411 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:16:42,152 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:16:43,081 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:16:43,821 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:16:44,335 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:16:44,840 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:16:45,579 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:16:46,098 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:16:46,723 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:16:47,396 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:16:47,968 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:16:48,933 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:16:49,476 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:16:50,170 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:16:51,149 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:16:51,748 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:16:52,282 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:16:52,870 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:16:53,625 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:16:54,394 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:16:55,186 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:16:55,984 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:16:56,515 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:16:57,441 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:16:57,993 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:16:58,635 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:16:59,488 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:17:00,328 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:17:00,870 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:17:01,364 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:17:01,856 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:17:02,371 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:17:02,372 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:17:02,372 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:17:02,372 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:17:02,373 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:23:10,013 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:23:10,015 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:23:10,016 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:23:10,017 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:23:10,510 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:23:11,034 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:23:11,879 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:23:12,468 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:23:13,164 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:23:13,963 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:23:14,430 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:23:14,955 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:23:15,699 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:23:16,223 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:23:16,827 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:23:17,568 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:23:18,093 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:23:19,142 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:23:19,655 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:23:20,205 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:23:20,705 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:23:21,294 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:23:21,873 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:23:22,508 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:23:23,223 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:23:23,961 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:23:24,773 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:23:25,359 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:23:25,883 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:23:26,546 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:23:27,265 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:23:27,916 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:23:28,890 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:23:29,605 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:23:30,147 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:23:30,635 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:23:31,162 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:23:31,667 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:23:31,668 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:23:31,668 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:23:31,669 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:23:31,669 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:23:31,743 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:23:31,745 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:23:31,746 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:23:31,748 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:23:32,250 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:23:32,765 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:23:33,611 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:23:34,250 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:23:35,141 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:23:35,850 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:23:36,351 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:23:36,858 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:23:37,590 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:23:38,123 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:23:38,716 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:23:39,388 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:23:39,906 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:23:40,860 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:23:41,382 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:23:41,940 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:23:42,438 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:23:43,022 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:23:43,626 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:23:44,187 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:23:44,793 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:23:45,552 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:23:46,241 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:23:46,845 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:23:47,329 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:23:48,000 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:23:48,525 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:23:49,287 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:23:50,143 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:23:51,062 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:23:51,572 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:23:52,045 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:23:52,537 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:23:53,138 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:23:53,139 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:23:53,139 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:23:53,140 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:23:53,140 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:26:45,473 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:26:45,475 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:26:45,476 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:26:45,477 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:26:45,973 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:26:46,481 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:26:47,539 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:26:48,100 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:26:48,804 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:26:49,510 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:26:49,995 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:26:50,490 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:26:51,190 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:26:51,735 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:26:52,303 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:26:53,006 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:26:53,523 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:26:54,573 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:26:55,089 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:26:55,644 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:26:56,128 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:26:56,729 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:26:57,330 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:26:57,957 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:26:58,672 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:26:59,409 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:27:00,255 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:27:00,854 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:27:01,416 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:27:02,057 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:27:02,619 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:27:03,300 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:27:04,306 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:27:05,153 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:27:05,716 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:27:06,364 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:27:06,899 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:27:07,396 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:27:07,396 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:27:07,397 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:27:07,397 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:27:07,397 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:27:07,478 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:27:07,480 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:27:07,482 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:27:07,484 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:27:07,991 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:27:08,490 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:27:09,381 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:27:09,948 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:27:10,716 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:27:11,581 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:27:12,082 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:27:12,569 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:27:13,350 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:27:13,861 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:27:14,440 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:27:15,139 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:27:15,653 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:27:16,709 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:27:17,202 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:27:17,785 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:27:18,267 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:27:18,873 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:27:19,412 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:27:19,997 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:27:20,829 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:27:21,682 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:27:22,458 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:27:23,107 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:27:23,604 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:27:24,268 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:27:24,854 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:27:25,507 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:27:26,412 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:27:27,183 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:27:27,727 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:27:28,213 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:27:28,705 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:27:29,203 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:27:29,203 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:27:29,204 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:27:29,204 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:27:29,204 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:34:00,287 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:34:00,289 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:34:00,290 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:34:00,292 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:34:00,784 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:34:01,304 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:34:02,152 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:34:02,753 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:34:03,428 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:34:04,169 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:34:04,683 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:34:05,227 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:34:05,987 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:34:06,483 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:34:07,251 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:34:07,941 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:34:08,494 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:34:09,451 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:34:09,989 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:34:10,522 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:34:11,033 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:34:11,616 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:34:12,146 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:34:12,810 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:34:13,504 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:34:14,369 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:34:15,165 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:34:15,759 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:34:16,281 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:34:16,940 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:34:17,456 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:34:18,216 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:34:19,141 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:34:19,915 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:34:20,482 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:34:21,083 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:34:21,576 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:34:22,123 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:34:22,124 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:34:22,124 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:34:22,125 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:34:22,125 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:37:34,235 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:37:34,237 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:37:34,239 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:37:34,240 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:37:34,725 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:37:35,224 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:37:36,091 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:37:36,665 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:37:37,370 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:37:38,081 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:37:38,611 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:37:39,102 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:37:39,848 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:37:40,379 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:37:40,977 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:37:41,726 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:37:42,246 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:37:43,195 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:37:43,682 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:37:44,264 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:37:44,757 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:37:45,608 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:37:46,138 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:37:46,761 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:37:47,459 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:37:48,240 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:37:49,045 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:37:49,687 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:37:50,169 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:37:50,834 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:37:51,379 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:37:52,017 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:37:53,069 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:37:53,840 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:37:54,349 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:37:54,822 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:37:55,358 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:37:55,848 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:37:55,849 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:37:55,849 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:37:55,850 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:37:55,851 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-15 22:39:46,962 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-15 22:39:46,963 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-15 22:39:46,965 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-15 22:39:46,966 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-15 22:39:47,473 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-15 22:39:48,016 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-15 22:39:48,865 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-15 22:39:49,466 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-15 22:39:50,230 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-15 22:39:50,945 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-15 22:39:51,437 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-15 22:39:51,925 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-15 22:39:52,700 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-15 22:39:53,204 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-15 22:39:53,825 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-15 22:39:54,496 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-15 22:39:55,003 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-15 22:39:56,042 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-15 22:39:56,712 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-15 22:39:57,295 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-15 22:39:57,800 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-15 22:39:58,411 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-15 22:39:58,955 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-15 22:39:59,631 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-15 22:40:00,261 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-15 22:40:01,092 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-15 22:40:01,866 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-15 22:40:02,544 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-15 22:40:03,027 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-15 22:40:03,718 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-15 22:40:04,253 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-15 22:40:05,022 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-15 22:40:05,885 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-15 22:40:06,704 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-15 22:40:07,204 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-15 22:40:07,694 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-15 22:40:08,192 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-15 22:40:08,703 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-15 22:40:08,703 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-15 22:40:08,703 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-15 22:40:08,704 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-15 22:40:08,704 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-16 00:26:31,870 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-16 00:26:31,872 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-16 00:26:31,875 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-16 00:26:31,877 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-16 00:26:32,789 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-16 00:26:33,650 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-16 00:26:35,142 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-16 00:26:36,335 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-16 00:26:37,497 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-16 00:26:38,776 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-16 00:26:39,764 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-16 00:26:40,876 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-16 00:26:42,562 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-16 00:26:43,352 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-16 00:26:44,515 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-16 00:26:45,829 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-16 00:26:46,786 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-16 00:26:50,180 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-16 00:26:51,424 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-16 00:26:52,431 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-16 00:26:53,740 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-16 00:26:54,959 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-16 00:26:56,290 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-16 00:26:57,660 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-16 00:26:58,809 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-16 00:27:00,134 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-16 00:27:01,477 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-16 00:27:02,742 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-16 00:27:03,642 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-16 00:27:05,063 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-16 00:27:06,136 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-16 00:27:07,470 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-16 00:27:09,184 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-16 00:27:10,572 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-16 00:27:11,284 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-16 00:27:12,097 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-16 00:27:12,815 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-16 00:27:13,496 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-16 00:27:13,496 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-16 00:27:13,497 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-16 00:27:13,497 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-16 00:27:13,497 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 12:50:36,316 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 12:50:36,319 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 12:50:36,320 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 12:50:36,323 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 12:50:37,000 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 12:50:37,574 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 12:50:38,958 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 12:50:39,871 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 12:50:41,032 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 12:50:42,086 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 12:50:42,746 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 12:50:43,487 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 12:50:44,646 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 12:50:45,187 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 12:50:46,156 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 12:50:47,292 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 12:50:47,873 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 12:50:49,374 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 12:50:50,082 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 12:50:50,756 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 12:50:51,497 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 12:50:52,366 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 12:50:53,400 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 12:50:54,301 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 12:50:55,420 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 12:50:56,778 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 12:50:57,828 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 12:50:58,731 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 12:50:59,471 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 12:51:00,759 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 12:51:01,710 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 12:51:03,060 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 12:51:04,389 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 12:51:06,107 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 12:51:06,862 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 12:51:07,573 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 12:51:08,083 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 12:51:08,611 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 12:51:08,612 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 12:51:08,612 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 12:51:08,612 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 12:51:08,612 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 13:05:19,913 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 13:05:19,915 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 13:05:19,916 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 13:05:19,918 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 13:05:20,756 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 13:05:21,319 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 13:05:22,565 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 13:05:23,488 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 13:05:24,567 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 13:05:25,493 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 13:05:26,345 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 13:05:27,034 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 13:05:28,042 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 13:05:28,700 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 13:05:29,553 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 13:05:30,540 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 13:05:31,068 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 13:05:32,503 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 13:05:33,268 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 13:05:33,860 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 13:05:34,513 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 13:05:35,359 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 13:05:36,122 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 13:05:37,109 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 13:05:38,193 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 13:05:39,142 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 13:05:40,298 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 13:05:41,278 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 13:05:41,878 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 13:05:43,112 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 13:05:44,125 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 13:05:45,244 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 13:05:46,816 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 13:05:47,959 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 13:05:48,419 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 13:05:49,053 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 13:05:49,545 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 13:05:50,045 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 13:05:50,046 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 13:05:50,046 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 13:05:50,047 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 13:05:50,047 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 13:08:57,676 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 13:08:57,677 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 13:08:57,679 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 13:08:57,680 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 13:08:58,371 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 13:08:58,936 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 13:09:00,297 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 13:09:01,171 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 13:09:02,270 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 13:09:03,697 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 13:09:04,454 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 13:09:05,197 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 13:09:06,283 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 13:09:07,149 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 13:09:08,098 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 13:09:09,060 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 13:09:09,791 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 13:09:11,407 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 13:09:12,044 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 13:09:12,770 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 13:09:13,367 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 13:09:14,244 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 13:09:15,314 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 13:09:16,106 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 13:09:17,144 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 13:09:18,299 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 13:09:19,340 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 13:09:20,153 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 13:09:21,105 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 13:09:22,700 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 13:09:23,565 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 13:09:24,850 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 13:09:26,265 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 13:09:27,394 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 13:09:27,871 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 13:09:28,454 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 13:09:29,073 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 13:09:29,662 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 13:09:29,662 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 13:09:29,663 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 13:09:29,663 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 13:09:29,663 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 13:16:19,982 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 13:16:19,984 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 13:16:19,985 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 13:16:19,986 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 13:16:20,736 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 13:16:21,527 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 13:16:22,874 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 13:16:24,091 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 13:16:25,021 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 13:16:26,362 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 13:16:27,141 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 13:16:27,784 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 13:16:29,121 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 13:16:29,818 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 13:16:30,705 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 13:16:31,898 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 13:16:32,487 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 13:16:34,073 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 13:16:34,657 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 13:16:35,313 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 13:16:36,089 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 13:16:37,110 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 13:16:38,103 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 13:16:39,291 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 13:16:40,257 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 13:16:41,929 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 13:16:42,972 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 13:16:44,063 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 13:16:44,778 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 13:16:46,037 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 13:16:46,991 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 13:16:48,079 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 13:16:49,534 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 13:16:50,799 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 13:16:51,348 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 13:16:52,086 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 13:16:52,691 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 13:16:53,229 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 13:16:53,229 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 13:16:53,230 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 13:16:53,230 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 13:16:53,230 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 13:20:06,250 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 13:20:06,259 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 13:20:06,271 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 13:20:06,277 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 13:20:07,381 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 13:20:08,290 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 13:20:10,011 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 13:20:11,523 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 13:20:12,914 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 13:20:16,961 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 13:20:21,792 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 13:20:22,394 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 13:20:23,622 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 13:20:24,735 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 13:20:25,683 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 13:20:27,454 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 13:20:28,022 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 13:20:30,536 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 13:20:31,037 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 13:20:32,917 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 13:20:33,502 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 13:20:35,448 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 13:20:36,275 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 13:20:38,231 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 13:20:39,328 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 13:20:41,523 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 13:20:43,444 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 13:20:44,345 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 13:20:45,099 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 13:20:46,889 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 13:20:47,760 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 13:20:49,553 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 13:20:50,963 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 13:20:52,802 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 13:20:53,331 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 13:20:55,112 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 13:20:55,626 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 13:20:56,176 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 13:20:56,176 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 13:20:56,177 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 13:20:56,177 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 13:20:56,178 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 13:47:56,048 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 13:47:56,052 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 13:47:56,054 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 13:47:56,056 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 13:47:56,704 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 13:47:57,277 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 13:47:58,525 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 13:47:59,423 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 13:48:00,289 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 13:48:01,254 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 13:48:01,850 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 13:48:02,530 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 13:48:03,814 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 13:48:04,357 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 13:48:05,245 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 13:48:06,216 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 13:48:06,743 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 13:48:08,258 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 13:48:08,811 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 13:48:09,432 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 13:48:10,073 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 13:48:11,005 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 13:48:11,908 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 13:48:12,766 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 13:48:13,866 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 13:48:14,939 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 13:48:15,999 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 13:48:16,786 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 13:48:17,611 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 13:48:18,828 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 13:48:19,577 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 13:48:20,686 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 13:48:22,181 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 13:48:23,330 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 13:48:23,912 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 13:48:24,501 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 13:48:25,013 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 13:48:25,579 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 13:48:25,580 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 13:48:25,580 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 13:48:25,580 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 13:48:25,581 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 13:54:13,446 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 13:54:13,448 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 13:54:13,449 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 13:54:13,450 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 13:54:13,806 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 13:54:14,184 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 13:54:14,881 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 13:54:15,307 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 13:54:15,912 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 13:54:16,460 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 13:54:16,828 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 13:54:17,255 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 13:54:17,986 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 13:54:18,386 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 13:54:18,828 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 13:54:19,360 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 13:54:19,778 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 13:54:20,582 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 13:54:20,987 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 13:54:21,548 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 13:54:21,933 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 13:54:22,411 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 13:54:22,834 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 13:54:23,301 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 13:54:23,909 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 13:54:24,479 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 13:54:25,178 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 13:54:25,792 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 13:54:26,154 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 13:54:26,700 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 13:54:27,097 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 13:54:27,604 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 13:54:28,547 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 13:54:29,162 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 13:54:29,588 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 13:54:29,950 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 13:54:30,312 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 13:54:30,700 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 13:54:30,701 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 13:54:30,701 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 13:54:30,701 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 13:54:30,701 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 13:54:42,781 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 13:54:42,782 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 13:54:42,784 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 13:54:42,786 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 13:54:43,287 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 13:54:43,676 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 13:54:44,376 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 13:54:44,840 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 13:54:45,396 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 13:54:45,953 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 13:54:46,338 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 13:54:46,708 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 13:54:47,381 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 13:54:47,814 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 13:54:48,267 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 13:54:48,823 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 13:54:49,216 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 13:54:50,027 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 13:54:50,490 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 13:54:50,976 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 13:54:51,319 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 13:54:51,784 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 13:54:52,208 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 13:54:52,672 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 13:54:53,301 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 13:54:53,848 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 13:54:54,564 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 13:54:55,065 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 13:54:55,416 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 13:54:55,976 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 13:54:56,374 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 13:54:56,898 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 13:54:57,893 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 13:54:58,508 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 13:54:58,930 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 13:54:59,287 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 13:54:59,675 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 13:55:00,055 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 13:55:00,055 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 13:55:00,055 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 13:55:00,055 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 13:55:00,056 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 17:34:40,652 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 17:34:40,656 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 17:34:40,660 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 17:34:40,661 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 17:34:41,376 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 17:34:41,976 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 17:34:43,346 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 17:34:44,254 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 17:34:45,244 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 17:34:46,447 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 17:34:47,452 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 17:34:48,200 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 17:34:53,173 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 17:34:57,356 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 17:34:59,585 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 17:35:01,379 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 17:35:02,087 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 17:35:03,537 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 17:35:04,181 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 17:35:04,850 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 17:35:05,768 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 17:35:07,551 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 17:35:08,534 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 17:35:09,558 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 17:35:10,711 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 17:35:11,633 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 17:35:12,895 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 17:35:13,968 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 17:35:14,827 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 17:35:16,171 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 17:35:16,976 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 17:35:18,128 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 17:35:19,649 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 17:35:20,977 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 17:35:21,695 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 17:35:22,358 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 17:35:22,974 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 17:35:23,527 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 17:35:23,527 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 17:35:23,527 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 17:35:23,528 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 17:35:23,528 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 18:59:15,118 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 18:59:15,121 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 18:59:15,122 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 18:59:15,123 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 18:59:15,817 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 18:59:16,447 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 18:59:17,736 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 18:59:18,723 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 18:59:19,814 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 18:59:21,035 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 18:59:21,686 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 18:59:22,442 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 18:59:23,735 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 18:59:24,372 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 18:59:25,584 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 18:59:26,616 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 18:59:27,215 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 18:59:28,608 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 18:59:29,436 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 18:59:30,074 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 18:59:30,786 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 18:59:31,678 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 18:59:32,485 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 18:59:33,479 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 18:59:34,635 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 18:59:35,630 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 18:59:36,782 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 18:59:37,871 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 18:59:38,612 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 18:59:40,007 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 18:59:40,792 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 18:59:41,932 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 18:59:43,453 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 18:59:44,760 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 18:59:45,317 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 18:59:45,954 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 18:59:46,467 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 18:59:47,032 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 18:59:47,032 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 18:59:47,033 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 18:59:47,033 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 18:59:47,033 | INFO | dataset_split.dataset_splitter | Total classes in test: 34
+2026-02-17 19:28:48,663 | INFO | dataset_split.dataset_splitter | Dataset splitting started
+2026-02-17 19:28:48,665 | INFO | dataset_split.dataset_splitter | Created directory: data_split\train
+2026-02-17 19:28:48,666 | INFO | dataset_split.dataset_splitter | Created directory: data_split\val
+2026-02-17 19:28:48,667 | INFO | dataset_split.dataset_splitter | Created directory: data_split\test
+2026-02-17 19:28:49,273 | INFO | dataset_split.dataset_splitter | apple_pie → Train=200, Val=50, Test=10
+2026-02-17 19:28:49,808 | INFO | dataset_split.dataset_splitter | Baked Potato → Train=200, Val=50, Test=10
+2026-02-17 19:28:51,055 | INFO | dataset_split.dataset_splitter | burger → Train=200, Val=50, Test=10
+2026-02-17 19:28:51,969 | INFO | dataset_split.dataset_splitter | butter_naan → Train=200, Val=50, Test=10
+2026-02-17 19:28:53,046 | INFO | dataset_split.dataset_splitter | chai → Train=200, Val=50, Test=10
+2026-02-17 19:28:53,994 | INFO | dataset_split.dataset_splitter | chapati → Train=200, Val=50, Test=10
+2026-02-17 19:28:54,815 | INFO | dataset_split.dataset_splitter | cheesecake → Train=200, Val=50, Test=10
+2026-02-17 19:28:55,574 | INFO | dataset_split.dataset_splitter | chicken_curry → Train=200, Val=50, Test=10
+2026-02-17 19:28:56,688 | INFO | dataset_split.dataset_splitter | chole_bhature → Train=200, Val=50, Test=10
+2026-02-17 19:28:57,424 | INFO | dataset_split.dataset_splitter | Crispy Chicken → Train=200, Val=50, Test=10
+2026-02-17 19:28:58,329 | INFO | dataset_split.dataset_splitter | dal_makhani → Train=200, Val=50, Test=10
+2026-02-17 19:28:59,266 | INFO | dataset_split.dataset_splitter | dhokla → Train=200, Val=50, Test=10
+2026-02-17 19:28:59,926 | INFO | dataset_split.dataset_splitter | Donut → Train=200, Val=50, Test=10
+2026-02-17 19:29:01,431 | INFO | dataset_split.dataset_splitter | fried_rice → Train=200, Val=50, Test=10
+2026-02-17 19:29:01,932 | INFO | dataset_split.dataset_splitter | Fries → Train=200, Val=50, Test=10
+2026-02-17 19:29:02,615 | INFO | dataset_split.dataset_splitter | Hot Dog → Train=200, Val=50, Test=10
+2026-02-17 19:29:03,219 | INFO | dataset_split.dataset_splitter | ice_cream → Train=200, Val=50, Test=10
+2026-02-17 19:29:04,095 | INFO | dataset_split.dataset_splitter | idli → Train=200, Val=50, Test=10
+2026-02-17 19:29:04,877 | INFO | dataset_split.dataset_splitter | jalebi → Train=200, Val=50, Test=10
+2026-02-17 19:29:05,836 | INFO | dataset_split.dataset_splitter | kaathi_rolls → Train=200, Val=50, Test=10
+2026-02-17 19:29:06,981 | INFO | dataset_split.dataset_splitter | kadai_paneer → Train=200, Val=50, Test=10
+2026-02-17 19:29:07,986 | INFO | dataset_split.dataset_splitter | kulfi → Train=200, Val=50, Test=10
+2026-02-17 19:29:09,020 | INFO | dataset_split.dataset_splitter | masala_dosa → Train=200, Val=50, Test=10
+2026-02-17 19:29:10,042 | INFO | dataset_split.dataset_splitter | momos → Train=200, Val=50, Test=10
+2026-02-17 19:29:10,706 | INFO | dataset_split.dataset_splitter | omelette → Train=200, Val=50, Test=10
+2026-02-17 19:29:12,097 | INFO | dataset_split.dataset_splitter | paani_puri → Train=200, Val=50, Test=10
+2026-02-17 19:29:12,854 | INFO | dataset_split.dataset_splitter | pakode → Train=200, Val=50, Test=10
+2026-02-17 19:29:13,993 | INFO | dataset_split.dataset_splitter | pav_bhaji → Train=200, Val=50, Test=10
+2026-02-17 19:29:15,508 | INFO | dataset_split.dataset_splitter | pizza → Train=200, Val=50, Test=10
+2026-02-17 19:29:16,774 | INFO | dataset_split.dataset_splitter | samosa → Train=200, Val=50, Test=10
+2026-02-17 19:29:17,336 | INFO | dataset_split.dataset_splitter | Sandwich → Train=200, Val=50, Test=10
+2026-02-17 19:29:17,957 | INFO | dataset_split.dataset_splitter | sushi → Train=200, Val=50, Test=10
+2026-02-17 19:29:18,536 | INFO | dataset_split.dataset_splitter | Taco → Train=200, Val=50, Test=10
+2026-02-17 19:29:19,097 | INFO | dataset_split.dataset_splitter | Taquito → Train=200, Val=50, Test=10
+2026-02-17 19:29:19,098 | INFO | dataset_split.dataset_splitter | Dataset split completed successfully
+2026-02-17 19:29:19,099 | INFO | dataset_split.dataset_splitter | Total classes in train: 34
+2026-02-17 19:29:19,099 | INFO | dataset_split.dataset_splitter | Total classes in val: 34
+2026-02-17 19:29:19,100 | INFO | dataset_split.dataset_splitter | Total classes in test: 34

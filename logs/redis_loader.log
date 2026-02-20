@@ -1,0 +1,1123 @@
+2026-02-08 00:50:26,810 | INFO | redis_loader.redis | Redis already running
+2026-02-08 00:50:26,821 | INFO | redis_loader.redis | Connected to Redis
+2026-02-08 00:50:26,822 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-08 00:50:26,822 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-08 00:50:26,823 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-08 00:50:26,824 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-08 00:50:26,824 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-08 00:50:26,825 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-08 00:50:26,825 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-08 00:50:26,826 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-08 00:50:26,826 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-08 00:50:26,827 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-08 00:50:26,827 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-08 00:50:26,828 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-08 00:50:26,829 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-08 00:50:26,829 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-08 00:50:26,830 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-08 00:50:26,830 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-08 00:50:26,830 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-08 00:50:26,831 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-08 00:50:26,831 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-08 00:50:26,832 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-08 00:50:26,832 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-08 00:50:26,833 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-08 00:50:26,834 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-08 00:50:26,835 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-08 00:50:26,835 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-08 00:50:26,836 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-08 00:50:26,837 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-08 00:50:26,837 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-08 00:50:26,838 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-08 00:50:26,839 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-08 00:50:26,839 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-08 00:50:26,840 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-08 00:50:26,841 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-08 00:50:26,842 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-08 00:50:26,842 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-08 00:51:44,414 | INFO | redis_loader.redis | Redis already running
+2026-02-08 00:51:44,423 | INFO | redis_loader.redis | Connected to Redis
+2026-02-08 00:51:44,424 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-08 00:51:44,424 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-08 00:51:44,425 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-08 00:51:44,426 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-08 00:51:44,426 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-08 00:51:44,427 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-08 00:51:44,427 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-08 00:51:44,428 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-08 00:51:44,428 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-08 00:51:44,429 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-08 00:51:44,429 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-08 00:51:44,430 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-08 00:51:44,430 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-08 00:51:44,431 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-08 00:51:44,433 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-08 00:51:44,434 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-08 00:51:44,435 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-08 00:51:44,435 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-08 00:51:44,436 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-08 00:51:44,437 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-08 00:51:44,437 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-08 00:51:44,438 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-08 00:51:44,439 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-08 00:51:44,439 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-08 00:51:44,440 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-08 00:51:44,440 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-08 00:51:44,441 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-08 00:51:44,441 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-08 00:51:44,442 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-08 00:51:44,442 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-08 00:51:44,443 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-08 00:51:44,444 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-08 00:51:44,444 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-08 00:51:44,445 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-08 00:51:44,445 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-08 01:07:04,240 | INFO | redis_loader.redis | Redis already running
+2026-02-08 01:07:04,249 | INFO | redis_loader.redis | Connected to Redis
+2026-02-08 01:07:04,250 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-08 01:07:04,251 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-08 01:07:04,251 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-08 01:07:04,252 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-08 01:07:04,252 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-08 01:07:04,253 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-08 01:07:04,253 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-08 01:07:04,254 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-08 01:07:04,254 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-08 01:07:04,255 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-08 01:07:04,256 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-08 01:07:04,256 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-08 01:07:04,257 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-08 01:07:04,258 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-08 01:07:04,259 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-08 01:07:04,260 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-08 01:07:04,260 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-08 01:07:04,261 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-08 01:07:04,262 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-08 01:07:04,262 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-08 01:07:04,263 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-08 01:07:04,263 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-08 01:07:04,264 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-08 01:07:04,265 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-08 01:07:04,265 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-08 01:07:04,266 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-08 01:07:04,266 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-08 01:07:04,267 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-08 01:07:04,267 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-08 01:07:04,268 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-08 01:07:04,268 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-08 01:07:04,269 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-08 01:07:04,269 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-08 01:07:04,270 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-08 01:07:04,270 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-09 22:05:37,930 | INFO | redis_loader.redis | Redis not running. Starting Redis...
+2026-02-09 22:05:40,941 | INFO | redis_loader.redis | Redis started successfully
+2026-02-09 22:05:40,953 | INFO | redis_loader.redis | Connected to Redis
+2026-02-09 22:05:40,955 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-09 22:05:40,955 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-09 22:05:40,956 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-09 22:05:40,957 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-09 22:05:40,958 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-09 22:05:40,958 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-09 22:05:40,959 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-09 22:05:40,960 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-09 22:05:40,960 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-09 22:05:40,961 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-09 22:05:40,962 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-09 22:05:40,963 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-09 22:05:40,963 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-09 22:05:40,964 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-09 22:05:40,965 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-09 22:05:40,966 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-09 22:05:40,966 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-09 22:05:40,968 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-09 22:05:40,969 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-09 22:05:40,970 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-09 22:05:40,971 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-09 22:05:40,972 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-09 22:05:40,973 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-09 22:05:40,974 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-09 22:05:40,976 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-09 22:05:40,977 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-09 22:05:40,978 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-09 22:05:40,979 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-09 22:05:40,980 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-09 22:05:40,981 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-09 22:05:40,982 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-09 22:05:40,983 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-09 22:05:40,986 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-09 22:05:40,987 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-09 22:05:40,988 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-15 22:03:53,782 | INFO | redis_loader.redis | Redis not running. Starting Redis...
+2026-02-15 22:03:56,794 | INFO | redis_loader.redis | Redis started successfully
+2026-02-15 22:03:56,807 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:03:56,808 | ERROR | redis_loader.redis | Failed to store metrics for cnn: [Errno 2] No such file or directory: 'cnn_metrics.json'
+2026-02-15 22:05:23,135 | INFO | redis_loader.redis | Redis already running
+2026-02-15 22:05:23,144 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:05:23,150 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-15 22:05:23,154 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-15 22:05:23,157 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-15 22:08:24,237 | INFO | redis_loader.redis | Redis already running
+2026-02-15 22:08:24,241 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:08:24,245 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-15 22:08:24,246 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-15 22:08:24,248 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-15 22:08:24,250 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-15 22:08:24,251 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-15 22:08:24,253 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-15 22:08:24,254 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-15 22:08:24,256 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-15 22:08:24,259 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-15 22:08:24,260 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-15 22:08:24,261 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-15 22:08:24,262 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-15 22:08:24,263 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-15 22:08:24,264 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-15 22:08:24,266 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-15 22:08:24,268 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-15 22:08:24,270 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-15 22:08:24,271 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-15 22:08:24,274 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-15 22:08:24,278 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-15 22:08:24,280 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-15 22:08:24,282 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-15 22:08:24,285 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-15 22:08:24,286 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-15 22:08:24,287 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-15 22:08:24,288 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-15 22:08:24,291 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-15 22:08:24,292 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-15 22:08:24,293 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-15 22:08:24,294 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-15 22:08:24,295 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-15 22:08:24,296 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-15 22:08:24,297 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-15 22:08:24,299 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-15 22:08:24,299 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-15 22:11:53,982 | INFO | redis_loader.redis | Redis already running
+2026-02-15 22:11:53,987 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:11:53,989 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-15 22:11:53,990 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-15 22:11:53,994 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-15 22:11:53,996 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-15 22:11:53,998 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-15 22:11:53,999 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-15 22:11:54,002 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-15 22:11:54,004 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-15 22:11:54,006 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-15 22:11:54,007 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-15 22:11:54,008 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-15 22:11:54,032 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-15 22:11:54,033 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-15 22:11:54,035 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-15 22:11:54,037 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-15 22:11:54,038 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-15 22:11:54,040 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-15 22:11:54,045 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-15 22:11:54,047 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-15 22:11:54,048 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-15 22:11:54,051 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-15 22:11:54,053 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-15 22:11:54,055 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-15 22:11:54,056 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-15 22:11:54,058 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-15 22:11:54,059 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-15 22:11:54,060 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-15 22:11:54,063 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-15 22:11:54,065 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-15 22:11:54,071 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-15 22:11:54,072 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-15 22:11:54,074 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-15 22:11:54,076 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-15 22:11:54,077 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-15 22:11:54,078 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-15 22:14:32,366 | INFO | redis_loader.redis | Redis already running
+2026-02-15 22:14:32,369 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:14:32,370 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-15 22:14:32,373 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-15 22:14:32,375 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-15 22:14:32,376 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-15 22:14:32,377 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-15 22:14:32,379 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-15 22:14:32,380 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-15 22:14:32,381 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-15 22:14:32,382 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-15 22:14:32,383 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-15 22:14:32,384 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-15 22:14:32,385 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-15 22:14:32,386 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-15 22:14:32,389 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-15 22:14:32,390 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-15 22:14:32,391 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-15 22:14:32,392 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-15 22:14:32,393 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-15 22:14:32,394 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-15 22:14:32,395 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-15 22:14:32,396 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-15 22:14:32,397 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-15 22:14:32,398 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-15 22:14:32,399 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-15 22:14:32,400 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-15 22:14:32,401 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-15 22:14:32,402 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-15 22:14:32,404 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-15 22:14:32,405 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-15 22:14:32,406 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-15 22:14:32,406 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-15 22:14:32,408 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-15 22:14:32,410 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-15 22:14:32,411 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-15 22:14:32,411 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-15 22:16:39,197 | INFO | redis_loader.redis | Redis already running
+2026-02-15 22:16:39,200 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:16:39,200 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-15 22:16:39,201 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-15 22:16:39,202 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-15 22:16:39,203 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-15 22:16:39,205 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-15 22:16:39,206 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-15 22:16:39,208 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-15 22:16:39,209 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-15 22:16:39,210 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-15 22:16:39,211 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-15 22:16:39,212 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-15 22:16:39,213 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-15 22:16:39,213 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-15 22:16:39,214 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-15 22:16:39,215 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-15 22:16:39,216 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-15 22:16:39,217 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-15 22:16:39,218 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-15 22:16:39,219 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-15 22:16:39,220 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-15 22:16:39,222 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-15 22:16:39,224 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-15 22:16:39,225 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-15 22:16:39,226 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-15 22:16:39,227 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-15 22:16:39,228 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-15 22:16:39,229 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-15 22:16:39,231 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-15 22:16:39,232 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-15 22:16:39,233 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-15 22:16:39,234 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-15 22:16:39,234 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-15 22:16:39,235 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-15 22:16:39,236 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-15 22:16:39,237 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-15 22:23:31,707 | INFO | redis_loader.redis | Redis already running
+2026-02-15 22:23:31,710 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:23:31,711 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-15 22:23:31,712 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-15 22:23:31,713 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-15 22:23:31,714 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-15 22:23:31,715 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-15 22:23:31,717 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-15 22:23:31,718 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-15 22:23:31,719 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-15 22:23:31,719 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-15 22:23:31,720 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-15 22:23:31,721 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-15 22:23:31,722 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-15 22:23:31,723 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-15 22:23:31,724 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-15 22:23:31,725 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-15 22:23:31,726 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-15 22:23:31,726 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-15 22:23:31,727 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-15 22:23:31,728 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-15 22:23:31,729 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-15 22:23:31,729 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-15 22:23:31,730 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-15 22:23:31,731 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-15 22:23:31,732 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-15 22:23:31,733 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-15 22:23:31,733 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-15 22:23:31,734 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-15 22:23:31,735 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-15 22:23:31,736 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-15 22:23:31,737 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-15 22:23:31,738 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-15 22:23:31,739 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-15 22:23:31,740 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-15 22:23:31,741 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-15 22:23:31,741 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-15 22:27:07,439 | INFO | redis_loader.redis | Redis already running
+2026-02-15 22:27:07,443 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:27:07,444 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-15 22:27:07,445 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-15 22:27:07,446 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-15 22:27:07,447 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-15 22:27:07,448 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-15 22:27:07,449 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-15 22:27:07,450 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-15 22:27:07,451 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-15 22:27:07,452 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-15 22:27:07,453 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-15 22:27:07,454 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-15 22:27:07,455 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-15 22:27:07,456 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-15 22:27:07,457 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-15 22:27:07,458 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-15 22:27:07,459 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-15 22:27:07,459 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-15 22:27:07,460 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-15 22:27:07,461 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-15 22:27:07,462 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-15 22:27:07,463 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-15 22:27:07,464 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-15 22:27:07,465 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-15 22:27:07,466 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-15 22:27:07,466 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-15 22:27:07,467 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-15 22:27:07,468 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-15 22:27:07,469 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-15 22:27:07,470 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-15 22:27:07,471 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-15 22:27:07,472 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-15 22:27:07,473 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-15 22:27:07,474 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-15 22:27:07,475 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-15 22:27:07,476 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-15 22:34:00,253 | INFO | redis_loader.redis | Redis already running
+2026-02-15 22:34:00,258 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:34:00,259 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-15 22:34:00,260 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-15 22:34:00,261 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-15 22:34:00,262 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-15 22:34:00,263 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-15 22:34:00,263 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-15 22:34:00,264 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-15 22:34:00,265 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-15 22:34:00,265 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-15 22:34:00,266 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-15 22:34:00,267 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-15 22:34:00,268 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-15 22:34:00,268 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-15 22:34:00,269 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-15 22:34:00,270 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-15 22:34:00,271 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-15 22:34:00,272 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-15 22:34:00,272 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-15 22:34:00,273 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-15 22:34:00,274 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-15 22:34:00,275 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-15 22:34:00,276 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-15 22:34:00,276 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-15 22:34:00,277 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-15 22:34:00,278 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-15 22:34:00,279 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-15 22:34:00,279 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-15 22:34:00,280 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-15 22:34:00,281 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-15 22:34:00,281 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-15 22:34:00,282 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-15 22:34:00,283 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-15 22:34:00,284 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-15 22:34:00,284 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-15 22:34:00,285 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-15 22:37:34,180 | INFO | redis_loader.redis | Redis already running
+2026-02-15 22:37:34,190 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:37:34,191 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-15 22:37:34,192 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-15 22:37:34,193 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-15 22:37:34,194 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-15 22:37:34,195 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-15 22:37:34,195 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-15 22:37:34,196 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-15 22:37:34,197 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-15 22:37:34,198 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-15 22:37:34,199 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-15 22:37:34,200 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-15 22:37:34,201 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-15 22:37:34,202 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-15 22:37:34,203 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-15 22:37:34,204 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-15 22:37:34,205 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-15 22:37:34,206 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-15 22:37:34,207 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-15 22:37:34,207 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-15 22:37:34,208 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-15 22:37:34,209 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-15 22:37:34,210 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-15 22:37:34,211 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-15 22:37:34,212 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-15 22:37:34,213 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-15 22:37:34,214 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-15 22:37:34,214 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-15 22:37:34,215 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-15 22:37:34,216 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-15 22:37:34,217 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-15 22:37:34,218 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-15 22:37:34,218 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-15 22:37:34,219 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-15 22:37:34,220 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-15 22:37:34,220 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-15 22:39:46,892 | INFO | redis_loader.redis | Redis already running
+2026-02-15 22:39:46,902 | INFO | redis_loader.redis | Connected to Redis
+2026-02-15 22:39:46,903 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-15 22:39:46,904 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-15 22:39:46,905 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-15 22:39:46,906 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-15 22:39:46,907 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-15 22:39:46,908 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-15 22:39:46,909 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-15 22:39:46,909 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-15 22:39:46,910 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-15 22:39:46,911 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-15 22:39:46,911 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-15 22:39:46,913 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-15 22:39:46,914 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-15 22:39:46,915 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-15 22:39:46,916 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-15 22:39:46,917 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-15 22:39:46,918 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-15 22:39:46,919 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-15 22:39:46,920 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-15 22:39:46,920 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-15 22:39:46,921 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-15 22:39:46,922 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-15 22:39:46,923 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-15 22:39:46,923 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-15 22:39:46,924 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-15 22:39:46,925 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-15 22:39:46,926 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-15 22:39:46,926 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-15 22:39:46,927 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-15 22:39:46,928 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-15 22:39:46,929 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-15 22:39:46,930 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-15 22:39:46,931 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-15 22:39:46,931 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-15 22:39:46,932 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-16 00:26:28,754 | INFO | redis_loader.redis | Redis not running. Starting Redis...
+2026-02-16 00:26:31,766 | INFO | redis_loader.redis | Redis started successfully
+2026-02-16 00:26:31,777 | INFO | redis_loader.redis | Connected to Redis
+2026-02-16 00:26:31,779 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-16 00:26:31,780 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-16 00:26:31,783 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-16 00:26:31,785 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-16 00:26:31,787 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-16 00:26:31,789 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-16 00:26:31,792 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-16 00:26:31,793 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-16 00:26:31,795 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-16 00:26:31,797 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-16 00:26:31,798 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-16 00:26:31,800 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-16 00:26:31,804 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-16 00:26:31,814 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-16 00:26:31,815 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-16 00:26:31,817 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-16 00:26:31,819 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-16 00:26:31,821 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-16 00:26:31,822 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-16 00:26:31,824 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-16 00:26:31,828 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-16 00:26:31,832 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-16 00:26:31,835 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-16 00:26:31,837 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-16 00:26:31,838 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-16 00:26:31,840 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-16 00:26:31,841 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-16 00:26:31,842 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-16 00:26:31,843 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-16 00:26:31,844 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-16 00:26:31,845 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-16 00:26:31,846 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-16 00:26:31,847 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-16 00:26:31,848 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-16 00:26:31,849 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 00:56:13,158 | INFO | redis_loader.redis | Redis not running. Starting Redis...
+2026-02-17 00:56:16,165 | INFO | redis_loader.redis | Redis started successfully
+2026-02-17 00:56:16,176 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 00:56:16,180 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 00:56:16,182 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 00:56:16,186 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 12:48:14,459 | INFO | redis_loader.redis | Redis not running. Starting Redis...
+2026-02-17 12:48:17,466 | INFO | redis_loader.redis | Redis started successfully
+2026-02-17 12:48:17,475 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 12:48:17,478 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 12:48:17,481 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 12:48:17,483 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 12:50:21,913 | INFO | redis_loader.redis | Redis already running
+2026-02-17 12:50:21,926 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 12:50:21,930 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 12:50:21,932 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 12:50:21,935 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 12:50:36,262 | INFO | redis_loader.redis | Redis already running
+2026-02-17 12:50:36,271 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 12:50:36,271 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 12:50:36,272 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 12:50:36,272 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 12:50:36,273 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 12:50:36,274 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 12:50:36,274 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 12:50:36,275 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 12:50:36,276 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 12:50:36,276 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 12:50:36,277 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 12:50:36,278 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 12:50:36,278 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 12:50:36,279 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 12:50:36,279 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 12:50:36,280 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 12:50:36,281 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 12:50:36,281 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 12:50:36,282 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 12:50:36,283 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 12:50:36,284 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 12:50:36,285 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 12:50:36,286 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 12:50:36,287 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 12:50:36,288 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 12:50:36,289 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 12:50:36,290 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 12:50:36,291 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 12:50:36,291 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 12:50:36,292 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 12:50:36,293 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 12:50:36,296 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 12:50:36,297 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 12:50:36,298 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 12:50:36,299 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 12:50:36,300 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 12:53:40,199 | INFO | redis_loader.redis | Redis already running
+2026-02-17 12:53:40,207 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 12:53:40,209 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 12:53:40,211 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 12:53:40,214 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 13:05:13,398 | INFO | redis_loader.redis | Redis already running
+2026-02-17 13:05:13,409 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 13:05:13,411 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 13:05:13,416 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 13:05:13,421 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 13:05:19,761 | INFO | redis_loader.redis | Redis already running
+2026-02-17 13:05:19,772 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 13:05:19,783 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 13:05:19,784 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 13:05:19,785 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 13:05:19,786 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 13:05:19,798 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 13:05:19,799 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 13:05:19,800 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 13:05:19,801 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 13:05:19,805 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 13:05:19,812 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 13:05:19,813 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 13:05:19,815 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 13:05:19,816 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 13:05:19,817 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 13:05:19,818 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 13:05:19,818 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 13:05:19,819 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 13:05:19,823 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 13:05:19,835 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 13:05:19,836 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 13:05:19,837 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 13:05:19,838 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 13:05:19,851 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 13:05:19,852 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 13:05:19,853 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 13:05:19,859 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 13:05:19,860 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 13:05:19,862 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 13:05:19,866 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 13:05:19,867 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 13:05:19,869 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 13:05:19,871 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 13:05:19,873 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 13:05:19,874 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 13:05:19,874 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 13:08:57,515 | INFO | redis_loader.redis | Redis already running
+2026-02-17 13:08:57,524 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 13:08:57,524 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 13:08:57,525 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 13:08:57,525 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 13:08:57,526 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 13:08:57,526 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 13:08:57,527 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 13:08:57,527 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 13:08:57,528 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 13:08:57,528 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 13:08:57,529 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 13:08:57,529 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 13:08:57,530 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 13:08:57,530 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 13:08:57,532 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 13:08:57,560 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 13:08:57,563 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 13:08:57,569 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 13:08:57,570 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 13:08:57,571 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 13:08:57,575 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 13:08:57,576 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 13:08:57,577 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 13:08:57,578 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 13:08:57,581 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 13:08:57,587 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 13:08:57,588 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 13:08:57,591 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 13:08:57,592 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 13:08:57,592 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 13:08:57,593 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 13:08:57,594 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 13:08:57,620 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 13:08:57,621 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 13:08:57,626 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 13:08:57,626 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 13:16:19,924 | INFO | redis_loader.redis | Redis already running
+2026-02-17 13:16:19,936 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 13:16:19,937 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 13:16:19,938 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 13:16:19,939 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 13:16:19,940 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 13:16:19,940 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 13:16:19,941 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 13:16:19,942 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 13:16:19,943 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 13:16:19,943 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 13:16:19,944 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 13:16:19,945 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 13:16:19,946 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 13:16:19,947 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 13:16:19,947 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 13:16:19,948 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 13:16:19,949 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 13:16:19,950 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 13:16:19,951 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 13:16:19,952 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 13:16:19,952 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 13:16:19,953 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 13:16:19,954 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 13:16:19,955 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 13:16:19,955 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 13:16:19,956 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 13:16:19,956 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 13:16:19,957 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 13:16:19,957 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 13:16:19,959 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 13:16:19,960 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 13:16:19,961 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 13:16:19,962 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 13:16:19,963 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 13:16:19,964 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 13:16:19,965 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 13:20:05,987 | INFO | redis_loader.redis | Redis already running
+2026-02-17 13:20:06,016 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 13:20:06,044 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 13:20:06,053 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 13:20:06,056 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 13:20:06,071 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 13:20:06,075 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 13:20:06,081 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 13:20:06,085 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 13:20:06,086 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 13:20:06,100 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 13:20:06,122 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 13:20:06,124 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 13:20:06,127 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 13:20:06,130 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 13:20:06,131 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 13:20:06,132 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 13:20:06,139 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 13:20:06,143 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 13:20:06,144 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 13:20:06,145 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 13:20:06,146 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 13:20:06,147 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 13:20:06,148 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 13:20:06,153 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 13:20:06,158 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 13:20:06,166 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 13:20:06,169 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 13:20:06,170 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 13:20:06,171 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 13:20:06,172 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 13:20:06,173 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 13:20:06,175 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 13:20:06,176 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 13:20:06,192 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 13:20:06,197 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 13:20:06,206 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 13:47:55,991 | INFO | redis_loader.redis | Redis already running
+2026-02-17 13:47:56,001 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 13:47:56,002 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 13:47:56,003 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 13:47:56,004 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 13:47:56,005 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 13:47:56,006 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 13:47:56,006 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 13:47:56,007 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 13:47:56,008 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 13:47:56,009 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 13:47:56,010 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 13:47:56,011 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 13:47:56,011 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 13:47:56,012 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 13:47:56,013 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 13:47:56,014 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 13:47:56,014 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 13:47:56,015 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 13:47:56,015 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 13:47:56,016 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 13:47:56,016 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 13:47:56,017 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 13:47:56,017 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 13:47:56,019 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 13:47:56,020 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 13:47:56,021 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 13:47:56,022 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 13:47:56,023 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 13:47:56,023 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 13:47:56,024 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 13:47:56,025 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 13:47:56,027 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 13:47:56,029 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 13:47:56,030 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 13:47:56,031 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 13:47:56,031 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 13:54:13,339 | INFO | redis_loader.redis | Redis already running
+2026-02-17 13:54:13,348 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 13:54:13,349 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 13:54:13,360 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 13:54:13,410 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 13:54:13,411 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 13:54:13,411 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 13:54:13,412 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 13:54:13,413 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 13:54:13,413 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 13:54:13,414 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 13:54:13,415 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 13:54:13,415 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 13:54:13,416 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 13:54:13,417 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 13:54:13,417 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 13:54:13,418 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 13:54:13,419 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 13:54:13,419 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 13:54:13,420 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 13:54:13,421 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 13:54:13,422 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 13:54:13,423 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 13:54:13,423 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 13:54:13,424 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 13:54:13,425 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 13:54:13,425 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 13:54:13,426 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 13:54:13,427 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 13:54:13,428 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 13:54:13,428 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 13:54:13,429 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 13:54:13,430 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 13:54:13,430 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 13:54:13,431 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 13:54:13,431 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 13:54:13,431 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 13:54:42,717 | INFO | redis_loader.redis | Redis already running
+2026-02-17 13:54:42,726 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 13:54:42,732 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 13:54:42,733 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 13:54:42,734 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 13:54:42,735 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 13:54:42,736 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 13:54:42,738 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 13:54:42,739 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 13:54:42,741 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 13:54:42,742 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 13:54:42,743 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 13:54:42,744 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 13:54:42,745 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 13:54:42,746 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 13:54:42,747 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 13:54:42,748 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 13:54:42,749 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 13:54:42,750 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 13:54:42,751 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 13:54:42,752 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 13:54:42,753 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 13:54:42,754 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 13:54:42,755 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 13:54:42,756 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 13:54:42,757 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 13:54:42,758 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 13:54:42,759 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 13:54:42,760 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 13:54:42,761 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 13:54:42,762 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 13:54:42,763 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 13:54:42,764 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 13:54:42,765 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 13:54:42,766 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 13:54:42,766 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 13:54:42,767 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 17:34:37,553 | INFO | redis_loader.redis | Redis not running. Starting Redis...
+2026-02-17 17:34:40,561 | INFO | redis_loader.redis | Redis started successfully
+2026-02-17 17:34:40,572 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 17:34:40,574 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 17:34:40,575 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 17:34:40,576 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 17:34:40,577 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 17:34:40,581 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 17:34:40,583 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 17:34:40,585 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 17:34:40,587 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 17:34:40,590 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 17:34:40,592 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 17:34:40,593 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 17:34:40,597 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 17:34:40,598 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 17:34:40,599 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 17:34:40,600 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 17:34:40,601 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 17:34:40,602 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 17:34:40,602 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 17:34:40,604 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 17:34:40,606 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 17:34:40,608 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 17:34:40,609 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 17:34:40,610 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 17:34:40,613 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 17:34:40,615 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 17:34:40,619 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 17:34:40,621 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 17:34:40,621 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 17:34:40,622 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 17:34:40,623 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 17:34:40,624 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 17:34:40,629 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 17:34:40,629 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 17:34:40,630 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 17:34:40,631 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 18:59:10,965 | INFO | redis_loader.redis | Redis already running
+2026-02-17 18:59:13,018 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 18:59:13,020 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 18:59:13,020 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 18:59:13,021 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 18:59:13,022 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 18:59:13,022 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 18:59:13,023 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 18:59:13,023 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 18:59:13,024 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 18:59:13,025 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 18:59:13,025 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 18:59:13,026 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 18:59:13,026 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 18:59:13,027 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 18:59:13,027 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 18:59:13,029 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 18:59:13,030 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 18:59:13,031 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 18:59:13,032 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 18:59:13,032 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 18:59:13,033 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 18:59:13,034 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 18:59:13,035 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 18:59:13,035 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 18:59:13,036 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 18:59:13,037 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 18:59:13,037 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 18:59:13,038 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 18:59:13,039 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 18:59:13,040 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 18:59:13,042 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 18:59:13,043 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 18:59:13,047 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 18:59:13,048 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 18:59:13,049 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 18:59:13,050 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 19:11:32,965 | INFO | redis_loader.redis | Redis already running
+2026-02-17 19:11:35,021 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 19:11:35,024 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 19:11:35,026 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 19:11:35,029 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 19:28:44,526 | INFO | redis_loader.redis | Redis already running
+2026-02-17 19:28:46,572 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 19:28:46,573 | INFO | redis_loader.redis | Stored 'Baked Potato' under key 'food:Baked_Potato'
+2026-02-17 19:28:46,573 | INFO | redis_loader.redis | Stored 'Crispy Chicken' under key 'food:Crispy_Chicken'
+2026-02-17 19:28:46,574 | INFO | redis_loader.redis | Stored 'Donut' under key 'food:Donut'
+2026-02-17 19:28:46,575 | INFO | redis_loader.redis | Stored 'Fries' under key 'food:Fries'
+2026-02-17 19:28:46,575 | INFO | redis_loader.redis | Stored 'Hot Dog' under key 'food:Hot_Dog'
+2026-02-17 19:28:46,576 | INFO | redis_loader.redis | Stored 'Sandwich' under key 'food:Sandwich'
+2026-02-17 19:28:46,577 | INFO | redis_loader.redis | Stored 'Taco' under key 'food:Taco'
+2026-02-17 19:28:46,577 | INFO | redis_loader.redis | Stored 'Taquito' under key 'food:Taquito'
+2026-02-17 19:28:46,578 | INFO | redis_loader.redis | Stored 'apple_pie' under key 'food:apple_pie'
+2026-02-17 19:28:46,578 | INFO | redis_loader.redis | Stored 'burger' under key 'food:burger'
+2026-02-17 19:28:46,579 | INFO | redis_loader.redis | Stored 'butter_naan' under key 'food:butter_naan'
+2026-02-17 19:28:46,579 | INFO | redis_loader.redis | Stored 'chai' under key 'food:chai'
+2026-02-17 19:28:46,580 | INFO | redis_loader.redis | Stored 'chapati' under key 'food:chapati'
+2026-02-17 19:28:46,580 | INFO | redis_loader.redis | Stored 'cheesecake' under key 'food:cheesecake'
+2026-02-17 19:28:46,581 | INFO | redis_loader.redis | Stored 'chicken_curry' under key 'food:chicken_curry'
+2026-02-17 19:28:46,581 | INFO | redis_loader.redis | Stored 'chole_bhature' under key 'food:chole_bhature'
+2026-02-17 19:28:46,582 | INFO | redis_loader.redis | Stored 'dal_makhani' under key 'food:dal_makhani'
+2026-02-17 19:28:46,582 | INFO | redis_loader.redis | Stored 'dhokla' under key 'food:dhokla'
+2026-02-17 19:28:46,582 | INFO | redis_loader.redis | Stored 'fried_rice' under key 'food:fried_rice'
+2026-02-17 19:28:46,583 | INFO | redis_loader.redis | Stored 'ice_cream' under key 'food:ice_cream'
+2026-02-17 19:28:46,584 | INFO | redis_loader.redis | Stored 'idli' under key 'food:idli'
+2026-02-17 19:28:46,584 | INFO | redis_loader.redis | Stored 'jalebi' under key 'food:jalebi'
+2026-02-17 19:28:46,585 | INFO | redis_loader.redis | Stored 'kaathi_rolls' under key 'food:kaathi_rolls'
+2026-02-17 19:28:46,585 | INFO | redis_loader.redis | Stored 'kadai_paneer' under key 'food:kadai_paneer'
+2026-02-17 19:28:46,586 | INFO | redis_loader.redis | Stored 'kulfi' under key 'food:kulfi'
+2026-02-17 19:28:46,586 | INFO | redis_loader.redis | Stored 'masala_dosa' under key 'food:masala_dosa'
+2026-02-17 19:28:46,588 | INFO | redis_loader.redis | Stored 'momos' under key 'food:momos'
+2026-02-17 19:28:46,589 | INFO | redis_loader.redis | Stored 'omelette' under key 'food:omelette'
+2026-02-17 19:28:46,590 | INFO | redis_loader.redis | Stored 'paani_puri' under key 'food:paani_puri'
+2026-02-17 19:28:46,591 | INFO | redis_loader.redis | Stored 'pakode' under key 'food:pakode'
+2026-02-17 19:28:46,593 | INFO | redis_loader.redis | Stored 'pav_bhaji' under key 'food:pav_bhaji'
+2026-02-17 19:28:46,595 | INFO | redis_loader.redis | Stored 'pizza' under key 'food:pizza'
+2026-02-17 19:28:46,596 | INFO | redis_loader.redis | Stored 'samosa' under key 'food:samosa'
+2026-02-17 19:28:46,598 | INFO | redis_loader.redis | Stored 'sushi' under key 'food:sushi'
+2026-02-17 19:28:46,599 | INFO | redis_loader.redis | All food items stored in Redis
+2026-02-17 19:40:20,344 | INFO | redis_loader.redis | Redis already running
+2026-02-17 19:40:22,398 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 19:40:22,406 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 19:40:22,408 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 19:40:22,411 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 19:56:19,702 | INFO | redis_loader.redis | Redis already running
+2026-02-17 19:56:21,737 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 19:56:21,739 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 19:56:21,741 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 19:56:21,743 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 19:59:38,802 | INFO | redis_loader.redis | Redis already running
+2026-02-17 19:59:40,840 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 19:59:40,854 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 19:59:40,856 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 19:59:40,860 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 20:05:52,575 | INFO | redis_loader.redis | Redis already running
+2026-02-17 20:05:54,611 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 20:05:54,616 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 20:05:54,618 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 20:05:54,620 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 20:11:59,865 | INFO | redis_loader.redis | Redis already running
+2026-02-17 20:12:01,900 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 20:12:01,905 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 20:12:01,908 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 20:12:01,910 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 20:25:44,881 | INFO | redis_loader.redis | Redis already running
+2026-02-17 20:25:46,916 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 20:25:46,919 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 20:25:46,921 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 20:25:46,923 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 20:32:56,500 | INFO | redis_loader.redis | Redis already running
+2026-02-17 20:32:58,527 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 20:32:58,533 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 20:32:58,536 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 20:32:58,539 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 20:37:08,275 | INFO | redis_loader.redis | Redis already running
+2026-02-17 20:37:10,328 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 20:37:10,331 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 20:37:10,333 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 20:37:10,335 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 20:45:18,322 | INFO | redis_loader.redis | Redis already running
+2026-02-17 20:45:20,382 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 20:45:20,386 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 20:45:20,388 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 20:45:20,391 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 20:48:09,769 | INFO | redis_loader.redis | Redis already running
+2026-02-17 20:48:11,817 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 20:48:11,819 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 20:48:11,821 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 20:48:11,823 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 20:52:33,698 | INFO | redis_loader.redis | Redis already running
+2026-02-17 20:52:35,731 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 20:52:35,734 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 20:52:35,736 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 20:52:35,739 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 22:51:27,420 | INFO | redis_loader.redis | Redis already running
+2026-02-17 22:51:29,475 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 22:51:29,479 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 22:51:29,481 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 22:51:29,484 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 23:00:27,779 | INFO | redis_loader.redis | Redis already running
+2026-02-17 23:00:29,811 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 23:00:29,814 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 23:00:29,815 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 23:00:29,817 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 23:06:10,506 | INFO | redis_loader.redis | Redis already running
+2026-02-17 23:06:12,547 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 23:06:12,664 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 23:06:12,837 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 23:06:12,967 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 23:37:15,610 | INFO | redis_loader.redis | Redis already running
+2026-02-17 23:37:17,633 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 23:37:17,674 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 23:37:17,736 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 23:37:17,741 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 23:47:46,540 | INFO | redis_loader.redis | Redis already running
+2026-02-17 23:47:48,553 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 23:47:48,556 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 23:47:48,557 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 23:47:48,559 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-17 23:56:56,204 | INFO | redis_loader.redis | Redis already running
+2026-02-17 23:56:58,238 | INFO | redis_loader.redis | Connected to Redis
+2026-02-17 23:56:58,240 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-17 23:56:58,242 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-17 23:56:58,244 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-18 00:34:01,203 | INFO | redis_loader.redis | Redis already running
+2026-02-18 00:34:03,258 | INFO | redis_loader.redis | Connected to Redis
+2026-02-18 00:34:03,263 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-18 00:34:03,264 | ERROR | redis_loader.redis | Failed to store metrics for vgg16: [Errno 2] No such file or directory: 'vgg16_metrics.json'
+2026-02-18 00:35:11,020 | INFO | redis_loader.redis | Redis already running
+2026-02-18 00:35:13,057 | INFO | redis_loader.redis | Connected to Redis
+2026-02-18 00:35:13,059 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-18 00:35:13,061 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-18 00:35:13,064 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-18 01:16:02,905 | INFO | redis_loader.redis | Redis already running
+2026-02-18 01:16:04,918 | INFO | redis_loader.redis | Connected to Redis
+2026-02-18 01:16:04,920 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-18 01:16:04,924 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-18 01:16:04,926 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-18 01:28:15,680 | INFO | redis_loader.redis | Redis already running
+2026-02-18 01:28:17,706 | INFO | redis_loader.redis | Connected to Redis
+2026-02-18 01:28:17,710 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-18 01:28:17,714 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-18 01:28:17,717 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-18 01:33:53,293 | INFO | redis_loader.redis | Redis already running
+2026-02-18 01:33:55,348 | INFO | redis_loader.redis | Connected to Redis
+2026-02-18 01:33:55,351 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-18 01:33:55,354 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-18 01:33:55,357 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-18 12:21:42,336 | INFO | redis_loader.redis | Redis already running
+2026-02-18 12:21:45,740 | INFO | redis_loader.redis | Connected to Redis
+2026-02-18 12:21:45,746 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-18 12:21:45,750 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-18 12:21:45,759 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-18 22:40:22,677 | INFO | redis_loader.redis | Redis already running
+2026-02-18 22:40:24,722 | INFO | redis_loader.redis | Connected to Redis
+2026-02-18 22:40:24,737 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-18 22:40:24,741 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-18 22:40:24,746 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-18 23:52:27,036 | INFO | redis_loader.redis | Redis already running
+2026-02-18 23:52:29,090 | INFO | redis_loader.redis | Connected to Redis
+2026-02-18 23:52:29,096 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-18 23:52:29,100 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-18 23:52:29,103 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-19 01:49:36,781 | INFO | redis_loader.redis | Redis already running
+2026-02-19 01:49:38,814 | INFO | redis_loader.redis | Connected to Redis
+2026-02-19 01:49:38,819 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-19 01:49:38,822 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-19 01:49:38,825 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-19 12:52:41,923 | INFO | redis_loader.redis | Redis already running
+2026-02-19 12:52:44,400 | INFO | redis_loader.redis | Connected to Redis
+2026-02-19 12:52:44,468 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-19 12:52:44,474 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-19 12:52:44,482 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-19 12:53:38,594 | INFO | redis_loader.redis | Redis already running
+2026-02-19 12:53:40,648 | INFO | redis_loader.redis | Connected to Redis
+2026-02-19 12:53:40,650 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-19 12:53:40,654 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-19 12:53:40,663 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-19 13:48:03,426 | INFO | redis_loader.redis | Redis already running
+2026-02-19 13:48:05,486 | INFO | redis_loader.redis | Connected to Redis
+2026-02-19 13:48:05,491 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-19 13:48:05,494 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-19 13:48:05,497 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-19 13:48:09,864 | INFO | redis_loader.redis | Redis already running
+2026-02-19 13:48:11,893 | INFO | redis_loader.redis | Connected to Redis
+2026-02-19 13:48:11,895 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-19 13:48:11,898 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-19 13:48:11,900 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics
+2026-02-19 20:57:50,877 | INFO | redis_loader.redis | Redis already running
+2026-02-19 20:57:52,925 | INFO | redis_loader.redis | Connected to Redis
+2026-02-19 20:57:52,930 | INFO | redis_loader.redis | Model metrics stored successfully | model=cnn | key=model:cnn:metrics
+2026-02-19 20:57:52,933 | INFO | redis_loader.redis | Model metrics stored successfully | model=vgg16 | key=model:vgg16:metrics
+2026-02-19 20:57:52,936 | INFO | redis_loader.redis | Model metrics stored successfully | model=resnet50 | key=model:resnet50:metrics

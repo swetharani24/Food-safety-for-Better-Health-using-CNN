@@ -1,0 +1,8 @@
+2026-02-08 00:55:31,567 | dataset_split.dataset_splitter | INFO | Dataset splitting started
+2026-02-08 00:55:31,569 | dataset_split.dataset_splitter | INFO | Created directory: data_split\train
+2026-02-08 00:55:31,570 | dataset_split.dataset_splitter | INFO | Created directory: data_split\val
+2026-02-08 00:55:31,571 | dataset_split.dataset_splitter | INFO | Created directory: data_split\test
+2026-02-08 00:55:48,396 | dataset_split.dataset_splitter | INFO | Dataset split completed successfully
+2026-02-08 00:55:48,397 | dataset_split.dataset_splitter | INFO | Total classes in train: 34
+2026-02-08 00:55:48,397 | dataset_split.dataset_splitter | INFO | Total classes in val: 34
+2026-02-08 00:55:48,397 | dataset_split.dataset_splitter | INFO | Total classes in test: 34
