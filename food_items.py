@@ -1,0 +1,490 @@
+import json
+import logging
+from log_file import setup_logging
+logger = setup_logging("food_items")
+
+class FoodNutritionData:
+    def __init__(self, logger: logging.Logger):
+        self.logger = logger
+        self.food_items = {}
+
+    def load_data(self):
+        try:
+            self.logger.info("Loading food nutrition data")
+            self.food_items = {
+                "Baked Potato": {
+                    "calories_kcal": 93,
+                    "protein_g": 2.5,
+                    "total_carbohydrates_g": 21,
+                    "fat_g": 0.1,
+                    "fiber_g": 2.2,
+                    "sugar_g": 1.2,
+                    "iron_mg": 0.8,
+                    "calcium_mg": 12,
+                    "vitamins": ["Vitamin C", "Vitamin B6"],
+                    "category": "veg",
+                    "origin": "Global"
+                },
+                "Crispy Chicken": {
+                    "calories_kcal": 250,
+                    "protein_g": 18,
+                    "total_carbohydrates_g": 12,
+                    "fat_g": 15,
+                    "fiber_g": 1,
+                    "sugar_g": 0.5,
+                    "iron_mg": 1.3,
+                    "calcium_mg": 15,
+                    "vitamins": ["Vitamin B6", "Vitamin B12"],
+                    "category": "non_veg",
+                    "origin": "Global"
+                },
+                "Donut": {
+                    "calories_kcal": 452,
+                    "protein_g": 5,
+                    "total_carbohydrates_g": 51,
+                    "fat_g": 25,
+                    "fiber_g": 2,
+                    "sugar_g": 22,
+                    "iron_mg": 2.1,
+                    "calcium_mg": 22,
+                    "vitamins": ["Vitamin A"],
+                    "category": "veg",
+                    "origin": "USA"
+                },
+                "Fries": {
+                    "calories_kcal": 312,
+                    "protein_g": 3.4,
+                    "total_carbohydrates_g": 41,
+                    "fat_g": 15,
+                    "fiber_g": 3.8,
+                    "sugar_g": 0.3,
+                    "iron_mg": 1.0,
+                    "calcium_mg": 18,
+                    "vitamins": ["Vitamin C", "Vitamin B6"],
+                    "category": "veg",
+                    "origin": "Global"
+                },
+                "Hot Dog": {
+                    "calories_kcal": 290,
+                    "protein_g": 11,
+                    "total_carbohydrates_g": 24,
+                    "fat_g": 18,
+                    "fiber_g": 1,
+                    "sugar_g": 3,
+                    "iron_mg": 2.5,
+                    "calcium_mg": 40,
+                    "vitamins": ["Vitamin B12"],
+                    "category": "non_veg",
+                    "origin": "USA"
+                },
+                "Sandwich": {
+                    "calories_kcal": 250,
+                    "protein_g": 9,
+                    "total_carbohydrates_g": 30,
+                    "fat_g": 8,
+                    "fiber_g": 3,
+                    "sugar_g": 4,
+                    "iron_mg": 2.0,
+                    "calcium_mg": 75,
+                    "vitamins": ["Vitamin A", "Vitamin C"],
+                    "category": "veg",
+                    "origin": "Global"
+                },
+                "Taco": {
+                    "calories_kcal": 226,
+                    "protein_g": 9,
+                    "total_carbohydrates_g": 21,
+                    "fat_g": 13,
+                    "fiber_g": 3,
+                    "sugar_g": 1,
+                    "iron_mg": 2.1,
+                    "calcium_mg": 60,
+                    "vitamins": ["Vitamin B12", "Vitamin C"],
+                    "category": "non_veg",
+                    "origin": "Mexico"
+                },
+                "Taquito": {
+                    "calories_kcal": 240,
+                    "protein_g": 10,
+                    "total_carbohydrates_g": 20,
+                    "fat_g": 14,
+                    "fiber_g": 2,
+                    "sugar_g": 1,
+                    "iron_mg": 1.9,
+                    "calcium_mg": 55,
+                    "vitamins": ["Vitamin B6"],
+                    "category": "non_veg",
+                    "origin": "Mexico"
+                },
+                "apple_pie": {
+                    "calories_kcal": 237,
+                    "protein_g": 2.4,
+                    "total_carbohydrates_g": 34,
+                    "fat_g": 11,
+                    "fiber_g": 2.4,
+                    "sugar_g": 17,
+                    "iron_mg": 1.2,
+                    "calcium_mg": 15,
+                    "vitamins": ["Vitamin A", "Vitamin C"],
+                    "category": "veg",
+                    "origin": "USA"
+                },
+                "burger": {
+                    "calories_kcal": 295,
+                    "protein_g": 17,
+                    "total_carbohydrates_g": 30,
+                    "fat_g": 14,
+                    "fiber_g": 2,
+                    "sugar_g": 5,
+                    "iron_mg": 2.7,
+                    "calcium_mg": 100,
+                    "vitamins": ["Vitamin B12", "Vitamin B6"],
+                    "category": "non_veg",
+                    "origin": "USA"
+                },
+                "butter_naan": {
+                    "calories_kcal": 310,
+                    "protein_g": 9,
+                    "total_carbohydrates_g": 45,
+                    "fat_g": 10,
+                    "fiber_g": 2,
+                    "sugar_g": 2,
+                    "iron_mg": 2.0,
+                    "calcium_mg": 80,
+                    "vitamins": ["Vitamin B1"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "chai": {
+                    "calories_kcal": 60,
+                    "protein_g": 2,
+                    "total_carbohydrates_g": 7,
+                    "fat_g": 2,
+                    "fiber_g": 0,
+                    "sugar_g": 5,
+                    "iron_mg": 0.5,
+                    "calcium_mg": 50,
+                    "vitamins": ["Vitamin B2"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "chapati": {
+                    "calories_kcal": 120,
+                    "protein_g": 4,
+                    "total_carbohydrates_g": 18,
+                    "fat_g": 3,
+                    "fiber_g": 3,
+                    "sugar_g": 0.4,
+                    "iron_mg": 1.5,
+                    "calcium_mg": 20,
+                    "vitamins": ["Vitamin B1"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "cheesecake": {
+                    "calories_kcal": 321,
+                    "protein_g": 6,
+                    "total_carbohydrates_g": 25,
+                    "fat_g": 23,
+                    "fiber_g": 1,
+                    "sugar_g": 19,
+                    "iron_mg": 0.9,
+                    "calcium_mg": 90,
+                    "vitamins": ["Vitamin A"],
+                    "category": "veg",
+                    "origin": "Global"
+                },
+                "chicken_curry": {
+                    "calories_kcal": 240,
+                    "protein_g": 20,
+                    "total_carbohydrates_g": 10,
+                    "fat_g": 14,
+                    "fiber_g": 2,
+                    "sugar_g": 3,
+                    "iron_mg": 2.2,
+                    "calcium_mg": 30,
+                    "vitamins": ["Vitamin B12"],
+                    "category": "non_veg",
+                    "origin": "India"
+                },
+                "chole_bhature": {
+                    "calories_kcal": 427,
+                    "protein_g": 12,
+                    "total_carbohydrates_g": 50,
+                    "fat_g": 20,
+                    "fiber_g": 8,
+                    "sugar_g": 6,
+                    "iron_mg": 4.0,
+                    "calcium_mg": 60,
+                    "vitamins": ["Vitamin B6"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "dal_makhani": {
+                    "calories_kcal": 210,
+                    "protein_g": 9,
+                    "total_carbohydrates_g": 18,
+                    "fat_g": 12,
+                    "fiber_g": 6,
+                    "sugar_g": 3,
+                    "iron_mg": 3.2,
+                    "calcium_mg": 40,
+                    "vitamins": ["Vitamin B1"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "dhokla": {
+                    "calories_kcal": 160,
+                    "protein_g": 6,
+                    "total_carbohydrates_g": 25,
+                    "fat_g": 4,
+                    "fiber_g": 3,
+                    "sugar_g": 2,
+                    "iron_mg": 1.8,
+                    "calcium_mg": 35,
+                    "vitamins": ["Vitamin B2"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "fried_rice": {
+                    "calories_kcal": 230,
+                    "protein_g": 6,
+                    "total_carbohydrates_g": 38,
+                    "fat_g": 7,
+                    "fiber_g": 2,
+                    "sugar_g": 2,
+                    "iron_mg": 1.5,
+                    "calcium_mg": 25,
+                    "vitamins": ["Vitamin B3"],
+                    "category": "veg",
+                    "origin": "China"
+                },
+                "ice_cream": {
+                    "calories_kcal": 207,
+                    "protein_g": 3.5,
+                    "total_carbohydrates_g": 24,
+                    "fat_g": 11,
+                    "fiber_g": 0.5,
+                    "sugar_g": 21,
+                    "iron_mg": 0.6,
+                    "calcium_mg": 120,
+                    "vitamins": ["Vitamin A"],
+                    "category": "veg",
+                    "origin": "Global"
+                },
+                "idli": {
+                    "calories_kcal": 146,
+                    "protein_g": 5,
+                    "total_carbohydrates_g": 28,
+                    "fat_g": 1,
+                    "fiber_g": 2,
+                    "sugar_g": 0.4,
+                    "iron_mg": 1.2,
+                    "calcium_mg": 20,
+                    "vitamins": ["Vitamin B1"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "jalebi": {
+                    "calories_kcal": 459,
+                    "protein_g": 4,
+                    "total_carbohydrates_g": 60,
+                    "fat_g": 22,
+                    "fiber_g": 1,
+                    "sugar_g": 45,
+                    "iron_mg": 2.5,
+                    "calcium_mg": 30,
+                    "vitamins": ["Vitamin A"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "kaathi_rolls": {
+                    "calories_kcal": 310,
+                    "protein_g": 12,
+                    "total_carbohydrates_g": 32,
+                    "fat_g": 14,
+                    "fiber_g": 3,
+                    "sugar_g": 4,
+                    "iron_mg": 2.4,
+                    "calcium_mg": 55,
+                    "vitamins": ["Vitamin B12"],
+                    "category": "non_veg",
+                    "origin": "India"
+                },
+                "kadai_paneer": {
+                    "calories_kcal": 260,
+                    "protein_g": 12,
+                    "total_carbohydrates_g": 10,
+                    "fat_g": 18,
+                    "fiber_g": 3,
+                    "sugar_g": 4,
+                    "iron_mg": 2.0,
+                    "calcium_mg": 140,
+                    "vitamins": ["Vitamin A"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "kulfi": {
+                    "calories_kcal": 220,
+                    "protein_g": 5,
+                    "total_carbohydrates_g": 24,
+                    "fat_g": 10,
+                    "fiber_g": 0.5,
+                    "sugar_g": 20,
+                    "iron_mg": 0.7,
+                    "calcium_mg": 110,
+                    "vitamins": ["Vitamin A"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "masala_dosa": {
+                    "calories_kcal": 250,
+                    "protein_g": 6,
+                    "total_carbohydrates_g": 35,
+                    "fat_g": 10,
+                    "fiber_g": 4,
+                    "sugar_g": 2,
+                    "iron_mg": 2.0,
+                    "calcium_mg": 35,
+                    "vitamins": ["Vitamin B1"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "momos": {
+                    "calories_kcal": 180,
+                    "protein_g": 8,
+                    "total_carbohydrates_g": 25,
+                    "fat_g": 6,
+                    "fiber_g": 2,
+                    "sugar_g": 1,
+                    "iron_mg": 1.8,
+                    "calcium_mg": 25,
+                    "vitamins": ["Vitamin B6"],
+                    "category": "non_veg",
+                    "origin": "Tibet"
+                },
+                "omelette": {
+                    "calories_kcal": 154,
+                    "protein_g": 11,
+                    "total_carbohydrates_g": 2,
+                    "fat_g": 12,
+                    "fiber_g": 0,
+                    "sugar_g": 1,
+                    "iron_mg": 1.9,
+                    "calcium_mg": 50,
+                    "vitamins": ["Vitamin D", "Vitamin B12"],
+                    "category": "non_veg",
+                    "origin": "Global"
+                },
+                "paani_puri": {
+                    "calories_kcal": 329,
+                    "protein_g": 6,
+                    "total_carbohydrates_g": 50,
+                    "fat_g": 10,
+                    "fiber_g": 5,
+                    "sugar_g": 8,
+                    "iron_mg": 3.0,
+                    "calcium_mg": 40,
+                    "vitamins": ["Vitamin C"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "pakode": {
+                    "calories_kcal": 300,
+                    "protein_g": 6,
+                    "total_carbohydrates_g": 30,
+                    "fat_g": 18,
+                    "fiber_g": 4,
+                    "sugar_g": 3,
+                    "iron_mg": 2.8,
+                    "calcium_mg": 35,
+                    "vitamins": ["Vitamin B6"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "pav_bhaji": {
+                    "calories_kcal": 350,
+                    "protein_g": 8,
+                    "total_carbohydrates_g": 45,
+                    "fat_g": 15,
+                    "fiber_g": 6,
+                    "sugar_g": 6,
+                    "iron_mg": 3.5,
+                    "calcium_mg": 60,
+                    "vitamins": ["Vitamin C"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "pizza": {
+                    "calories_kcal": 266,
+                    "protein_g": 11,
+                    "total_carbohydrates_g": 33,
+                    "fat_g": 10,
+                    "fiber_g": 2.5,
+                    "sugar_g": 4,
+                    "iron_mg": 2.3,
+                    "calcium_mg": 188,
+                    "vitamins": ["Vitamin A", "Vitamin B12"],
+                    "category": "veg",
+                    "origin": "Italy"
+                },
+                "samosa": {
+                    "calories_kcal": 308,
+                    "protein_g": 6,
+                    "total_carbohydrates_g": 32,
+                    "fat_g": 17,
+                    "fiber_g": 4,
+                    "sugar_g": 3,
+                    "iron_mg": 2.2,
+                    "calcium_mg": 25,
+                    "vitamins": ["Vitamin B6"],
+                    "category": "veg",
+                    "origin": "India"
+                },
+                "sushi": {
+                    "calories_kcal": 130,
+                    "protein_g": 6,
+                    "total_carbohydrates_g": 18,
+                    "fat_g": 2,
+                    "fiber_g": 1,
+                    "sugar_g": 2,
+                    "iron_mg": 1.6,
+                    "calcium_mg": 30,
+                    "vitamins": ["Vitamin B12", "Vitamin D"],
+                    "category": "non_veg",
+                    "origin": "Japan"
+                }
+
+            }
+        except Exception:
+            self.logger.error("Error while loading data", exc_info=True)
+            raise
+
+
+# ---------------- JSON WRITER ----------------
+class JSONWriter():
+    def __init__(self, logger: logging.Logger):
+        self.logger = logger
+
+    def save(self, data: dict, filename: str):
+        try:
+            with open(filename, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=4)
+
+            self.logger.info(f"Total number of food items: {len(data)}")
+            self.logger.info(f"✅ {filename} saved successfully")
+
+        except Exception:
+            self.logger.error("Error while saving JSON file", exc_info=True)
+            raise
+
+if __name__ == "__main__":
+    logger.info("Program started")
+
+    food_data = FoodNutritionData(logger)
+    food_data.load_data()
+
+    writer = JSONWriter(logger)
+    writer.save(food_data.food_items, "food_nutrition_data.json")
+
+    logger.info("Program finished")
